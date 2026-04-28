@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Glen Amaral 👋
 
-<!--
-**glenamaral/glenamaral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student at CEUMA — São Luís, Brazil
 
-Here are some ideas to get you started:
+## Currently learning
+- Python
+- Data Analysis with AI
+- Computer Vision with AI
+- Development of AI Models and Machine Learning fundamentals
+- Automation with AI and n8n
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+
+## Goals
+- Land first international remote internship by age 20
+
+## Connect with me
+https://www.linkedin.com/in/glen-a-0972763b0?utm_source=share_via&utm_content=profile&utm_medium=member_android
