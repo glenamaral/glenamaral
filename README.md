@@ -9,6 +9,9 @@ Computer Engineering student at CEUMA — São Luís, Brazil
 - Development of AI Models and Machine Learning fundamentals
 - Automation with AI and n8n
 
+## What I'm building
+- 🚗 [Electric Vehicle Population Analysis](https://github.com/glenamaral/electric-vehicle-analysis) — EDA on 280k EV registrations in the US
+
 ## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
